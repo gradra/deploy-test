@@ -1,0 +1,23 @@
+#header {
+    background: #5e3a00;
+}
+
+.module caption, .inline-group h2 {
+    font-size: 1rem;
+    letter-spacing: 0.5px;
+    text-transform: uppercase;
+    background: #5e3a00;
+}
+
+#user-tools, #logout-form button {
+    font-size: 1rem;
+}
+
+#content-related {
+    margin-right:-800px;
+    background: #E2DDD0;
+}
+
+.dashboard #content {
+    width: 800px;
+}
